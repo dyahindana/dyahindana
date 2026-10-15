@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Dyah 👋
 
-<!--
-**dyahindana/dyahindana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Technology Student at Institut Teknologi Sepuluh Nopember
 
-Here are some ideas to get you started:
+I'm currently learning and exploring software development, especially
+programming, web development, and technology-related projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Currently Learning
+
+- C / C++
+- Python
+- HTML / CSS / JavaScript
+- React
+- Next.js
+- Tailwind CSS
+- Git & GitHub
+
+### 📚 What I'm Exploring
+
+- Programming fundamentals
+- Data Structures & Algorithms
+- Front-End Development
+- Software Development
+- AI & technology
+- Robotics programming
+
+### 🌱 Currently
+
+I'm building my programming fundamentals through coursework,
+practice problems, and small experiments while exploring
+different areas of Information Technology.
+
+### 📌 Interests
+
+💻 Software Development  
+🌐 Front-End Development  
+🤖 AI & Robotics  
+📊 Data & Technology
